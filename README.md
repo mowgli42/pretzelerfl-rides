@@ -1,6 +1,6 @@
 # PretzelerFL rides
 
-Personal Overcast ride queue for ~25-minute listens at **1.5×** (about 15–18 minutes of drive time). Home-life only — stories, focus, curiosity. Melbourne FL / Tobias / PretzelerFL / mowgli42.
+Personal Overcast ride queue for ~25-minute listens at **1.5×** (about 15–18 minutes of drive time). Home-life only — stories, focus, curiosity. 
 
 ## Subscribe (Overcast)
 
