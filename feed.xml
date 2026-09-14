@@ -6,12 +6,12 @@
   <channel>
     <title>PretzelerFL rides</title>
     <link>https://mowgli42.github.io/pretzelerfl-rides/</link>
-    <description>Curated ~25-minute habits and personal-systems ride briefings for PretzelerFL (Tobias / mowgli42, Melbourne FL). Best at 1.5× in Overcast — about 15–23 minutes of wall-clock listening. Home-life picks: habits, systems, focus. Not a workplace feed.</description>
+    <description>Curated ~25-minute habits/systems and presence/repair marriage ride briefings for PretzelerFL (Tobias / mowgli42, Melbourne FL). Best at 1.5× in Overcast — about 15–23 minutes of wall-clock listening. Home-life picks: habits, systems, focus, presence, repair. Not a workplace feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Sep 2026 02:30:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 10:10:46 +0000</lastBuildDate>
     <atom:link href="https://mowgli42.github.io/pretzelerfl-rides/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Tobias / PretzelerFL / mowgli42</itunes:author>
-    <itunes:summary>Curated ~25-minute habits and personal-systems ride briefings for PretzelerFL (Tobias / mowgli42, Melbourne FL). Best at 1.5× in Overcast — about 15–23 minutes of wall-clock listening. Home-life picks: habits, systems, focus. Not a workplace feed.</itunes:summary>
+    <itunes:summary>Curated ~25-minute habits/systems and presence/repair marriage ride briefings for PretzelerFL (Tobias / mowgli42, Melbourne FL). Best at 1.5× in Overcast — about 15–23 minutes of wall-clock listening. Home-life picks: habits, systems, focus, presence, repair. Not a workplace feed.</itunes:summary>
     <itunes:owner>
       <itunes:name>Tobias / PretzelerFL / mowgli42</itunes:name>
       <itunes:email>tprettol@gmail.com</itunes:email>
@@ -19,6 +19,48 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Leisure" />
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Ride: Stay present when you shut down (Adam Young Part 2)</title>
+      <link>https://adamyoungcounseling.com/relational-conflict-fight-flight-freeze-or-shut-down-part-2/</link>
+      <guid isPermaLink="false">https://mowgli42.github.io/pretzelerfl-rides/rides/ride-adam-young-relational-conflict-shutdown-part-2</guid>
+      <pubDate>Thu, 17 Sep 2026 12:00:00 +0000</pubDate>
+      <description>The Place We Find Ourselves ep 80 — Relational Conflict: Fight, Flight, Freeze, or Shut Down Part 2. Adam Young (Allender/Eldredge world) on shutdown vs staying in contact. From The Place We Find Ourselves.</description>
+      <enclosure url="https://traffic.libsyn.com/secure/theplacewefindourselves/Relational_Conflict_Part_2.mp3?dest-id=684469" length="21706326" type="audio/mpeg" />
+      <itunes:title>Ride: Stay present when you shut down (Adam Young Part 2)</itunes:title>
+      <itunes:summary>Christian counselor Adam Young names shutdown as going offline and social engagement—staying in contact—as the alternative. For dismissive-avoidant presence and repair.</itunes:summary>
+      <itunes:author>Tobias / PretzelerFL / mowgli42</itunes:author>
+      <itunes:duration>00:25:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Ride: Here but not really — fighting emotional absence</title>
+      <link>https://www.familylife.com/podcast/familylife-today/here-but-not-really-fighting-emotional-absence-in-marriage-matt-sarah-hammitt/</link>
+      <guid isPermaLink="false">https://mowgli42.github.io/pretzelerfl-rides/rides/ride-familylife-here-but-not-really-hammitt</guid>
+      <pubDate>Wed, 16 Sep 2026 12:00:00 +0000</pubDate>
+      <description>FamilyLife Today: Here, but Not Really: Fighting Emotional Absence in Marriage – Matt &amp; Sarah Hammitt. A Christian husband learns to stay present instead of checking out. From FamilyLife Today.</description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/traffic.omny.fm/d/clips/cbd16f10-ac60-4f09-b4df-b15400ce35aa/33aaac7e-3581-4e21-a3df-b154011ba58c/82ea33cb-6de8-4985-b202-b3db011b5820/audio.mp3?utm_source=Podcast&amp;in_playlist=4604cdc7-9731-42ee-bbf0-b154011ba5a8" length="23960321" type="audio/mpeg" />
+      <itunes:title>Ride: Here but not really — fighting emotional absence</itunes:title>
+      <itunes:summary>Matt &amp; Sarah Hammitt on being physically home and emotionally gone—and choosing to stay and hear without defending. Presence after shutdown.</itunes:summary>
+      <itunes:author>Tobias / PretzelerFL / mowgli42</itunes:author>
+      <itunes:duration>00:24:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Ride: Deep-Rooted Marriage — choose her again (WAH E825)</title>
+      <link>https://wildatheart.org/podcasts/wild-at-heart/e825-the-deep-rooted-marriage-part-2/</link>
+      <guid isPermaLink="false">https://mowgli42.github.io/pretzelerfl-rides/rides/ride-wah-e825-deep-rooted-marriage-part-2</guid>
+      <pubDate>Tue, 15 Sep 2026 12:00:00 +0000</pubDate>
+      <description>Wild at Heart E825 | The Deep-Rooted Marriage - Part 2. Eldredge + Allender on repair and presence when you want to leave the room. From Wild at Heart.</description>
+      <enclosure url="https://media.transistor.fm/05ec47df/f5edb361.mp3" length="40913896" type="audio/mpeg" />
+      <itunes:title>Ride: Deep-Rooted Marriage — choose her again (WAH E825)</itunes:title>
+      <itunes:summary>John Eldredge and Dan Allender on repair and choosing each other again after harm—including staying when the body wants to retreat.</itunes:summary>
+      <itunes:author>Tobias / PretzelerFL / mowgli42</itunes:author>
+      <itunes:duration>00:34:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Ride: Build atomic habits with James Clear</title>
       <link>https://www.ted.com/talks/how_to_be_a_better_human_how_to_develop_the_habits_you_want_and_get_rid_of_the_ones_you_don_t_w_james_clear</link>

@@ -1,7 +1,7 @@
 {
   "channel": {
     "title": "PretzelerFL rides",
-    "description": "Curated ~25-minute habits and personal-systems ride briefings for PretzelerFL (Tobias / mowgli42, Melbourne FL). Best at 1.5× in Overcast — about 15–23 minutes of wall-clock listening. Home-life picks: habits, systems, focus. Not a workplace feed.",
+    "description": "Curated ~25-minute habits/systems and presence/repair marriage ride briefings for PretzelerFL (Tobias / mowgli42, Melbourne FL). Best at 1.5× in Overcast — about 15–23 minutes of wall-clock listening. Home-life picks: habits, systems, focus, presence, repair. Not a workplace feed.",
     "link": "https://mowgli42.github.io/pretzelerfl-rides/",
     "language": "en-us",
     "author": "Tobias / PretzelerFL / mowgli42",
@@ -10,6 +10,51 @@
     "category": "Leisure"
   },
   "rides": [
+    {
+      "id": "ride-adam-young-relational-conflict-shutdown-part-2",
+      "title": "Ride: Stay present when you shut down (Adam Young Part 2)",
+      "pubDate": "2026-09-17T12:00:00Z",
+      "duration": "00:25:00",
+      "durationSeconds": 1500,
+      "summary": "Christian counselor Adam Young names shutdown as going offline and social engagement—staying in contact—as the alternative. For dismissive-avoidant presence and repair.",
+      "description": "The Place We Find Ourselves ep 80 — Relational Conflict: Fight, Flight, Freeze, or Shut Down Part 2. Adam Young (Allender/Eldredge world) on shutdown vs staying in contact. From The Place We Find Ourselves.",
+      "enclosureUrl": "https://traffic.libsyn.com/secure/theplacewefindourselves/Relational_Conflict_Part_2.mp3?dest-id=684469",
+      "enclosureType": "audio/mpeg",
+      "enclosureLength": 21706326,
+      "link": "https://adamyoungcounseling.com/relational-conflict-fight-flight-freeze-or-shut-down-part-2/",
+      "attribution": "The Place We Find Ourselves — Adam Young",
+      "tags": ["presence", "repair", "shutdown", "marriage"]
+    },
+    {
+      "id": "ride-familylife-here-but-not-really-hammitt",
+      "title": "Ride: Here but not really — fighting emotional absence",
+      "pubDate": "2026-09-16T12:00:00Z",
+      "duration": "00:24:55",
+      "durationSeconds": 1495,
+      "summary": "Matt & Sarah Hammitt on being physically home and emotionally gone—and choosing to stay and hear without defending. Presence after shutdown.",
+      "description": "FamilyLife Today: Here, but Not Really: Fighting Emotional Absence in Marriage – Matt & Sarah Hammitt. A Christian husband learns to stay present instead of checking out. From FamilyLife Today.",
+      "enclosureUrl": "https://dts.podtrac.com/redirect.mp3/traffic.omny.fm/d/clips/cbd16f10-ac60-4f09-b4df-b15400ce35aa/33aaac7e-3581-4e21-a3df-b154011ba58c/82ea33cb-6de8-4985-b202-b3db011b5820/audio.mp3?utm_source=Podcast&in_playlist=4604cdc7-9731-42ee-bbf0-b154011ba5a8",
+      "enclosureType": "audio/mpeg",
+      "enclosureLength": 23960321,
+      "link": "https://www.familylife.com/podcast/familylife-today/here-but-not-really-fighting-emotional-absence-in-marriage-matt-sarah-hammitt/",
+      "attribution": "FamilyLife Today — Matt & Sarah Hammitt",
+      "tags": ["presence", "repair", "emotional-absence", "marriage"]
+    },
+    {
+      "id": "ride-wah-e825-deep-rooted-marriage-part-2",
+      "title": "Ride: Deep-Rooted Marriage — choose her again (WAH E825)",
+      "pubDate": "2026-09-15T12:00:00Z",
+      "duration": "00:34:00",
+      "durationSeconds": 2040,
+      "summary": "John Eldredge and Dan Allender on repair and choosing each other again after harm—including staying when the body wants to retreat.",
+      "description": "Wild at Heart E825 | The Deep-Rooted Marriage - Part 2. Eldredge + Allender on repair and presence when you want to leave the room. From Wild at Heart.",
+      "enclosureUrl": "https://media.transistor.fm/05ec47df/f5edb361.mp3",
+      "enclosureType": "audio/mpeg",
+      "enclosureLength": 40913896,
+      "link": "https://wildatheart.org/podcasts/wild-at-heart/e825-the-deep-rooted-marriage-part-2/",
+      "attribution": "Wild at Heart — John Eldredge",
+      "tags": ["presence", "repair", "eldredge", "marriage"]
+    },
     {
       "id": "ride-james-clear-atomic-habits-better-human",
       "title": "Ride: Build atomic habits with James Clear",
