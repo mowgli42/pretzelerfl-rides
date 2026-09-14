@@ -1,6 +1,6 @@
 # PretzelerFL rides
 
-Personal Overcast ride queue of curated ~25-minute habits / personal-systems briefings at **1.5×** (roughly 15–23 minutes of drive time). Home-life only — habits, systems, focus. 
+Personal Overcast ride queue of curated ~25-minute habits / personal-systems and presence / repair marriage briefings at **1.5×** (roughly 15–23 minutes of drive time). Home-life only — habits, systems, focus, presence, repair. 
 
 ## Subscribe (Overcast)
 
@@ -54,7 +54,7 @@ If the site is not live yet: **Settings → Pages → Build and deployment → S
 
 ## Attribution
 
-Episodes are curated third-party podcast episodes (TED Audio Collective, TED Talks Daily, Beyond the To-Do List, Deep Questions with Cal Newport, Happier with Gretchen Rubin). Enclosures point directly at each show's own publicly served audio — nothing is re-hosted. Each item description and `attribution` field credits the original show. This is a personal Overcast curation playlist, not affiliated with or endorsed by any of the shows.
+Episodes are curated third-party podcast episodes (TED Audio Collective, TED Talks Daily, Beyond the To-Do List, Deep Questions with Cal Newport, Happier with Gretchen Rubin, The Place We Find Ourselves, FamilyLife Today, Wild at Heart). Enclosures point directly at each show's own publicly served audio — nothing is re-hosted. Each item description and `attribution` field credits the original show. This is a personal Overcast curation playlist, not affiliated with or endorsed by any of the shows.
 
 ## License
 
