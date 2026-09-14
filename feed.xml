@@ -6,12 +6,12 @@
   <channel>
     <title>PretzelerFL rides</title>
     <link>https://mowgli42.github.io/pretzelerfl-rides/</link>
-    <description>Personal ~25-minute car-ride briefings for PretzelerFL (Tobias / mowgli42, Melbourne FL). Best at 1.5× in Overcast — about 15–18 minutes of wall-clock listening. Home-life picks: stories, focus, curiosity. Not a workplace feed.</description>
+    <description>Curated ~25-minute habits and personal-systems ride briefings for PretzelerFL (Tobias / mowgli42, Melbourne FL). Best at 1.5× in Overcast — about 15–23 minutes of wall-clock listening. Home-life picks: habits, systems, focus. Not a workplace feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Sep 2026 01:37:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 02:30:53 +0000</lastBuildDate>
     <atom:link href="https://mowgli42.github.io/pretzelerfl-rides/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Tobias / PretzelerFL / mowgli42</itunes:author>
-    <itunes:summary>Personal ~25-minute car-ride briefings for PretzelerFL (Tobias / mowgli42, Melbourne FL). Best at 1.5× in Overcast — about 15–18 minutes of wall-clock listening. Home-life picks: stories, focus, curiosity. Not a workplace feed.</itunes:summary>
+    <itunes:summary>Curated ~25-minute habits and personal-systems ride briefings for PretzelerFL (Tobias / mowgli42, Melbourne FL). Best at 1.5× in Overcast — about 15–23 minutes of wall-clock listening. Home-life picks: habits, systems, focus. Not a workplace feed.</itunes:summary>
     <itunes:owner>
       <itunes:name>Tobias / PretzelerFL / mowgli42</itunes:name>
       <itunes:email>tprettol@gmail.com</itunes:email>
@@ -20,97 +20,100 @@
     <itunes:category text="Leisure" />
     <itunes:type>episodic</itunes:type>
     <item>
-      <title>Ride: Tobermory (Saki)</title>
-      <link>https://archive.org/details/stories_003_librivox</link>
-      <guid isPermaLink="false">https://mowgli42.github.io/pretzelerfl-rides/rides/tobermory</guid>
+      <title>Ride: Build atomic habits with James Clear</title>
+      <link>https://www.ted.com/talks/how_to_be_a_better_human_how_to_develop_the_habits_you_want_and_get_rid_of_the_ones_you_don_t_w_james_clear</link>
+      <guid isPermaLink="false">https://mowgli42.github.io/pretzelerfl-rides/rides/ride-james-clear-atomic-habits-better-human</guid>
       <pubDate>Mon, 14 Sep 2026 12:00:00 +0000</pubDate>
-      <description>A PretzelerFL ride pick: Saki's Tobermory, LibriVox reading (public domain).
-
-Why this ride: bright and mischievous — good reset between errands.
-
-Attribution: LibriVox Short Story Collection 003 — public domain. Source: https://archive.org/details/stories_003_librivox
-Original text: Saki (H. H. Munro) (public domain).</description>
-      <enclosure url="https://archive.org/download/stories_003_librivox/tobermory_saki_ianish.mp3" length="18140900" type="audio/mpeg" />
-      <itunes:title>Ride: Tobermory (Saki)</itunes:title>
-      <itunes:summary>Saki wit — a talking cat at a country-house party. ~19 min; ~12.5 min at 1.5×.</itunes:summary>
+      <description>Atomic Habits author James Clear joins Chris Duffy to unpack the science of habit formation, how to work with your motivations, and why stacking small habits beats relying on willpower. From How to Be a Better Human (TED Audio Collective).</description>
+      <enclosure url="https://sphinx.acast.com/p/open/s/67572b3b2dd88df13220eb3b/e/prx_357_5189e1f8-c527-4e19-9187-b9ebe2012c52/media.mp3" length="32789701" type="audio/mpeg" />
+      <itunes:title>Ride: Build atomic habits with James Clear</itunes:title>
+      <itunes:summary>James Clear walks through habit formation, motivation, and why tiny consistent behaviors compound into identity-level change—core Atomic Habits ideas in a car-ride length.</itunes:summary>
       <itunes:author>Tobias / PretzelerFL / mowgli42</itunes:author>
-      <itunes:duration>00:18:53</itunes:duration>
+      <itunes:duration>00:34:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>Ride: An Occurrence at Owl Creek Bridge (Bierce)</title>
-      <link>https://archive.org/details/short_story023_0802_librivox</link>
-      <guid isPermaLink="false">https://mowgli42.github.io/pretzelerfl-rides/rides/owl-creek-bridge</guid>
+      <title>Ride: Kick the procrastination habit</title>
+      <link>https://www.ted.com/talks/ayelet_fishbach_4_proven_ways_to_kick_your_procrastination_habit?rss</link>
+      <guid isPermaLink="false">https://mowgli42.github.io/pretzelerfl-rides/rides/ride-ayelet-fishbach-procrastination-habit</guid>
       <pubDate>Sun, 13 Sep 2026 12:00:00 +0000</pubDate>
-      <description>A PretzelerFL ride pick: Ambrose Bierce's An Occurrence at Owl Creek Bridge, LibriVox reading (public domain).
-
-Why this ride: denser focus piece when you want something shorter than a full 25.
-
-Attribution: LibriVox Short Story Collection Vol. 023 — public domain. Source: https://archive.org/details/short_story023_0802_librivox
-Original text: Ambrose Bierce (public domain).</description>
-      <enclosure url="https://archive.org/download/short_story023_0802_librivox/shortstory023_anoccurrenceatowlcreekbridge_at.mp3" length="18049358" type="audio/mpeg" />
-      <itunes:title>Ride: An Occurrence at Owl Creek Bridge (Bierce)</itunes:title>
-      <itunes:summary>Tight Civil War classic — time bends. ~19 min; ~12.5 min at 1.5× for a short hop.</itunes:summary>
+      <description>Social psychologist Ayelet Fishbach explains the science of motivation and four proven tactics to interrupt the procrastination habit while staying happy and engaged. From TED Talks Daily.</description>
+      <enclosure url="https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/en.audio.talk.ted.com%3A107257/media.mp3" length="14197256" type="audio/mpeg" />
+      <itunes:title>Ride: Kick the procrastination habit</itunes:title>
+      <itunes:summary>Motivation scientist Ayelet Fishbach shares research-backed cognitive tricks to stay engaged and finish what you start—practical anti-procrastination systems.</itunes:summary>
       <itunes:author>Tobias / PretzelerFL / mowgli42</itunes:author>
-      <itunes:duration>00:18:48</itunes:duration>
+      <itunes:duration>00:29:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>Ride: The Story of Keesh (London)</title>
-      <link>https://archive.org/details/short_story023_0802_librivox</link>
-      <guid isPermaLink="false">https://mowgli42.github.io/pretzelerfl-rides/rides/story-of-keesh</guid>
+      <title>Ride: Three habits to escape your phone</title>
+      <link>http://go.ted.com/nayeemaraza</link>
+      <guid isPermaLink="false">https://mowgli42.github.io/pretzelerfl-rides/rides/ride-nayeema-raza-curiosity-phone-habits</guid>
       <pubDate>Sat, 12 Sep 2026 12:00:00 +0000</pubDate>
-      <description>A PretzelerFL ride pick: Jack London's The Story of Keesh, LibriVox reading (public domain).
-
-Why this ride: clean narrative arc that lands right around the 25-minute sweet spot.
-
-Attribution: LibriVox Short Story Collection Vol. 023 — public domain. Source: https://archive.org/details/short_story023_0802_librivox
-Original text: Jack London (public domain).</description>
-      <enclosure url="https://archive.org/download/short_story023_0802_librivox/shortstory023_storyofkeesh_add.mp3" length="23529806" type="audio/mpeg" />
-      <itunes:title>Ride: The Story of Keesh (London)</itunes:title>
-      <itunes:summary>Jack London adventure — clever hunting and quiet courage. ~24.5 min; ~16 min at 1.5×.</itunes:summary>
+      <description>Nayeema Raza describes how screens reshape attention and shares three habits to reignite curiosity, restore presence, and loosen phone addiction—followed by a short host interview. From TED Talks Daily.</description>
+      <enclosure url="https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/69a857395fb5962408988a7e/media.mp3" length="21193644" type="audio/mpeg" />
+      <itunes:title>Ride: Three habits to escape your phone</itunes:title>
+      <itunes:summary>Journalist Nayeema Raza offers three practical habits to restore curiosity and presence when phone use has become the default system running your day.</itunes:summary>
       <itunes:author>Tobias / PretzelerFL / mowgli42</itunes:author>
-      <itunes:duration>00:24:30</itunes:duration>
+      <itunes:duration>00:22:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>Ride: The Great French Duel (Twain)</title>
-      <link>https://archive.org/details/stories_003_librivox</link>
-      <guid isPermaLink="false">https://mowgli42.github.io/pretzelerfl-rides/rides/great-french-duel</guid>
+      <title>Ride: Power of Habit with Charles Duhigg</title>
+      <link>https://www.beyondthetodolist.com/charles-duhigg-on-peak-productivity-and-becoming-smarter-faster-and-better/</link>
+      <guid isPermaLink="false">https://mowgli42.github.io/pretzelerfl-rides/rides/ride-charles-duhigg-power-of-habit-productivity</guid>
       <pubDate>Fri, 11 Sep 2026 12:00:00 +0000</pubDate>
-      <description>A PretzelerFL ride pick: Mark Twain's The Great French Duel, LibriVox reading (public domain).
-
-Why this ride: light, funny, and paced for a Florida drive without needing notes.
-
-Attribution: LibriVox Short Story Collection 003 — public domain. Source: https://archive.org/details/stories_003_librivox
-Original text: Mark Twain (public domain).</description>
-      <enclosure url="https://archive.org/download/stories_003_librivox/great_french_duel_twain_btr.mp3" length="25700776" type="audio/mpeg" />
-      <itunes:title>Ride: The Great French Duel (Twain)</itunes:title>
-      <itunes:summary>Mark Twain humor for the commute. ~27 min; ~18 min at 1.5×.</itunes:summary>
+      <description>Erik Fisher talks with Charles Duhigg (The Power of Habit; Smarter Faster Better) about habit loops and peak productivity practices for work and life. From Beyond the To-Do List.</description>
+      <enclosure url="https://rss.art19.com/episodes/42950772-cd87-460f-8070-162fd45b2b56.mp3" length="31400519" type="audio/mpeg" />
+      <itunes:title>Ride: Power of Habit with Charles Duhigg</itunes:title>
+      <itunes:summary>Pulitzer winner Charles Duhigg connects The Power of Habit loops to the productivity systems in Smarter Faster Better—cue, routine, reward applied to real work.</itunes:summary>
       <itunes:author>Tobias / PretzelerFL / mowgli42</itunes:author>
-      <itunes:duration>00:26:46</itunes:duration>
+      <itunes:duration>00:32:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>Ride: The Monkey's Paw (Jacobs)</title>
-      <link>https://archive.org/details/stories_003_librivox</link>
-      <guid isPermaLink="false">https://mowgli42.github.io/pretzelerfl-rides/rides/monkeys-paw</guid>
+      <title>Ride: Morning routines that actually work</title>
+      <link>https://www.beyondthetodolist.com/laura-vanderkam-on-what-successful-people-do-before-breakfast-at-work-and-on-the-weekend/</link>
+      <guid isPermaLink="false">https://mowgli42.github.io/pretzelerfl-rides/rides/ride-laura-vanderkam-morning-routines</guid>
       <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
-      <description>A PretzelerFL ride pick: W. W. Jacobs' The Monkey's Paw, read for LibriVox (public domain).
-
-Why this ride: short enough for a local errand at 1.5×, long enough to stay focused. Home-life listening only.
-
-Attribution: LibriVox Short Story Collection 003 — public domain. Source: https://archive.org/details/stories_003_librivox
-Original text: W. W. Jacobs (public domain).</description>
-      <enclosure url="https://archive.org/download/stories_003_librivox/monkeys_paw_jacobs.mp3" length="24840494" type="audio/mpeg" />
-      <itunes:title>Ride: The Monkey's Paw (Jacobs)</itunes:title>
-      <itunes:summary>Classic suspense short — three wishes, one cautionary tale. ~26 min; try 1.5× for a ~17 min Melbourne drive.</itunes:summary>
+      <description>Laura Vanderkam (What the Most Successful People Do Before Breakfast) discusses intentional morning routines and reclaiming time for what matters. From Beyond the To-Do List.</description>
+      <enclosure url="https://rss.art19.com/episodes/fcd96e56-8155-4647-bad2-dc462a29a3bd.mp3" length="25411995" type="audio/mpeg" />
+      <itunes:title>Ride: Morning routines that actually work</itunes:title>
+      <itunes:summary>Time-management expert Laura Vanderkam shares how high performers design morning routines that protect priorities before the day’s demands take over.</itunes:summary>
       <itunes:author>Tobias / PretzelerFL / mowgli42</itunes:author>
-      <itunes:duration>00:25:52</itunes:duration>
+      <itunes:duration>00:26:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Ride: Cal Newport habit tune-up (phones, deep work, focus)</title>
+      <link>https://www.calnewport.com/podcast/</link>
+      <guid isPermaLink="false">https://mowgli42.github.io/pretzelerfl-rides/rides/ride-cal-newport-habit-tune-up-ep9</guid>
+      <pubDate>Wed, 09 Sep 2026 12:00:00 +0000</pubDate>
+      <description>A Deep Questions mini-episode habit tune-up: make an iPhone less distracting, install keystone habits for deep work, advance non-urgent big projects, and train focus. From Deep Questions with Cal Newport.</description>
+      <enclosure url="https://traffic.megaphone.fm/BVLLC5073104284.mp3" length="26636434" type="audio/mpeg" />
+      <itunes:title>Ride: Cal Newport habit tune-up (phones, deep work, focus)</itunes:title>
+      <itunes:summary>Cal Newport answers listener questions on de-addicting phones, keystone deep-work habits, making progress on big non-urgent projects, and training focus.</itunes:summary>
+      <itunes:author>Tobias / PretzelerFL / mowgli42</itunes:author>
+      <itunes:duration>00:27:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Ride: Gretchen Rubin’s top habit-change tools</title>
+      <link>https://omny.fm/shows/happier-with-gretchen-rubin/happier-ep-410-top-tools-for-habit-change-new-year</link>
+      <guid isPermaLink="false">https://mowgli42.github.io/pretzelerfl-rides/rides/ride-gretchen-rubin-habit-change-tools</guid>
+      <pubDate>Tue, 08 Sep 2026 12:00:00 +0000</pubDate>
+      <description>A special Happier episode on top tools for habit change: accountability partners, streak methods, tracking totals, and matching strategies to your tendency. From Happier with Gretchen Rubin.</description>
+      <enclosure url="https://traffic.megaphone.fm/LEME3814969518.mp3" length="28353698" type="audio/mpeg" />
+      <itunes:title>Ride: Gretchen Rubin’s top habit-change tools</itunes:title>
+      <itunes:summary>Gretchen Rubin and Elizabeth Craft survey the most effective habit tools—accountability, don’t-break-the-chain, tracking totals, and more—without one-size-fits-all advice.</itunes:summary>
+      <itunes:author>Tobias / PretzelerFL / mowgli42</itunes:author>
+      <itunes:duration>00:29:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
