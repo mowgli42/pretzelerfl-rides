@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PretzelerFL rides</title>
+    <link>https://mowgli42.github.io/pretzelerfl-rides/</link>
+    <description>Personal ~25-minute car-ride briefings for PretzelerFL (Tobias / mowgli42, Melbourne FL). Best at 1.5× in Overcast — about 15–18 minutes of wall-clock listening. Home-life picks: stories, focus, curiosity. Not a workplace feed.</description>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Sep 2026 01:37:58 +0000</lastBuildDate>
+    <atom:link href="https://mowgli42.github.io/pretzelerfl-rides/feed.xml" rel="self" type="application/rss+xml" />
+    <itunes:author>Tobias / PretzelerFL / mowgli42</itunes:author>
+    <itunes:summary>Personal ~25-minute car-ride briefings for PretzelerFL (Tobias / mowgli42, Melbourne FL). Best at 1.5× in Overcast — about 15–18 minutes of wall-clock listening. Home-life picks: stories, focus, curiosity. Not a workplace feed.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Tobias / PretzelerFL / mowgli42</itunes:name>
+      <itunes:email>tprettol@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Leisure" />
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Ride: Tobermory (Saki)</title>
+      <link>https://archive.org/details/stories_003_librivox</link>
+      <guid isPermaLink="false">https://mowgli42.github.io/pretzelerfl-rides/rides/tobermory</guid>
+      <pubDate>Mon, 14 Sep 2026 12:00:00 +0000</pubDate>
+      <description>A PretzelerFL ride pick: Saki's Tobermory, LibriVox reading (public domain).
+
+Why this ride: bright and mischievous — good reset between errands.
+
+Attribution: LibriVox Short Story Collection 003 — public domain. Source: https://archive.org/details/stories_003_librivox
+Original text: Saki (H. H. Munro) (public domain).</description>
+      <enclosure url="https://archive.org/download/stories_003_librivox/tobermory_saki_ianish.mp3" length="18140900" type="audio/mpeg" />
+      <itunes:title>Ride: Tobermory (Saki)</itunes:title>
+      <itunes:summary>Saki wit — a talking cat at a country-house party. ~19 min; ~12.5 min at 1.5×.</itunes:summary>
+      <itunes:author>Tobias / PretzelerFL / mowgli42</itunes:author>
+      <itunes:duration>00:18:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Ride: An Occurrence at Owl Creek Bridge (Bierce)</title>
+      <link>https://archive.org/details/short_story023_0802_librivox</link>
+      <guid isPermaLink="false">https://mowgli42.github.io/pretzelerfl-rides/rides/owl-creek-bridge</guid>
+      <pubDate>Sun, 13 Sep 2026 12:00:00 +0000</pubDate>
+      <description>A PretzelerFL ride pick: Ambrose Bierce's An Occurrence at Owl Creek Bridge, LibriVox reading (public domain).
+
+Why this ride: denser focus piece when you want something shorter than a full 25.
+
+Attribution: LibriVox Short Story Collection Vol. 023 — public domain. Source: https://archive.org/details/short_story023_0802_librivox
+Original text: Ambrose Bierce (public domain).</description>
+      <enclosure url="https://archive.org/download/short_story023_0802_librivox/shortstory023_anoccurrenceatowlcreekbridge_at.mp3" length="18049358" type="audio/mpeg" />
+      <itunes:title>Ride: An Occurrence at Owl Creek Bridge (Bierce)</itunes:title>
+      <itunes:summary>Tight Civil War classic — time bends. ~19 min; ~12.5 min at 1.5× for a short hop.</itunes:summary>
+      <itunes:author>Tobias / PretzelerFL / mowgli42</itunes:author>
+      <itunes:duration>00:18:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Ride: The Story of Keesh (London)</title>
+      <link>https://archive.org/details/short_story023_0802_librivox</link>
+      <guid isPermaLink="false">https://mowgli42.github.io/pretzelerfl-rides/rides/story-of-keesh</guid>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 +0000</pubDate>
+      <description>A PretzelerFL ride pick: Jack London's The Story of Keesh, LibriVox reading (public domain).
+
+Why this ride: clean narrative arc that lands right around the 25-minute sweet spot.
+
+Attribution: LibriVox Short Story Collection Vol. 023 — public domain. Source: https://archive.org/details/short_story023_0802_librivox
+Original text: Jack London (public domain).</description>
+      <enclosure url="https://archive.org/download/short_story023_0802_librivox/shortstory023_storyofkeesh_add.mp3" length="23529806" type="audio/mpeg" />
+      <itunes:title>Ride: The Story of Keesh (London)</itunes:title>
+      <itunes:summary>Jack London adventure — clever hunting and quiet courage. ~24.5 min; ~16 min at 1.5×.</itunes:summary>
+      <itunes:author>Tobias / PretzelerFL / mowgli42</itunes:author>
+      <itunes:duration>00:24:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Ride: The Great French Duel (Twain)</title>
+      <link>https://archive.org/details/stories_003_librivox</link>
+      <guid isPermaLink="false">https://mowgli42.github.io/pretzelerfl-rides/rides/great-french-duel</guid>
+      <pubDate>Fri, 11 Sep 2026 12:00:00 +0000</pubDate>
+      <description>A PretzelerFL ride pick: Mark Twain's The Great French Duel, LibriVox reading (public domain).
+
+Why this ride: light, funny, and paced for a Florida drive without needing notes.
+
+Attribution: LibriVox Short Story Collection 003 — public domain. Source: https://archive.org/details/stories_003_librivox
+Original text: Mark Twain (public domain).</description>
+      <enclosure url="https://archive.org/download/stories_003_librivox/great_french_duel_twain_btr.mp3" length="25700776" type="audio/mpeg" />
+      <itunes:title>Ride: The Great French Duel (Twain)</itunes:title>
+      <itunes:summary>Mark Twain humor for the commute. ~27 min; ~18 min at 1.5×.</itunes:summary>
+      <itunes:author>Tobias / PretzelerFL / mowgli42</itunes:author>
+      <itunes:duration>00:26:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Ride: The Monkey's Paw (Jacobs)</title>
+      <link>https://archive.org/details/stories_003_librivox</link>
+      <guid isPermaLink="false">https://mowgli42.github.io/pretzelerfl-rides/rides/monkeys-paw</guid>
+      <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
+      <description>A PretzelerFL ride pick: W. W. Jacobs' The Monkey's Paw, read for LibriVox (public domain).
+
+Why this ride: short enough for a local errand at 1.5×, long enough to stay focused. Home-life listening only.
+
+Attribution: LibriVox Short Story Collection 003 — public domain. Source: https://archive.org/details/stories_003_librivox
+Original text: W. W. Jacobs (public domain).</description>
+      <enclosure url="https://archive.org/download/stories_003_librivox/monkeys_paw_jacobs.mp3" length="24840494" type="audio/mpeg" />
+      <itunes:title>Ride: The Monkey's Paw (Jacobs)</itunes:title>
+      <itunes:summary>Classic suspense short — three wishes, one cautionary tale. ~26 min; try 1.5× for a ~17 min Melbourne drive.</itunes:summary>
+      <itunes:author>Tobias / PretzelerFL / mowgli42</itunes:author>
+      <itunes:duration>00:25:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
