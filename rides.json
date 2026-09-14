@@ -1,0 +1,89 @@
+{
+  "channel": {
+    "title": "PretzelerFL rides",
+    "description": "Personal ~25-minute car-ride briefings for PretzelerFL (Tobias / mowgli42, Melbourne FL). Best at 1.5× in Overcast — about 15–18 minutes of wall-clock listening. Home-life picks: stories, focus, curiosity. Not a workplace feed.",
+    "link": "https://mowgli42.github.io/pretzelerfl-rides/",
+    "language": "en-us",
+    "author": "Tobias / PretzelerFL / mowgli42",
+    "email": "tprettol@gmail.com",
+    "explicit": "false",
+    "category": "Leisure"
+  },
+  "rides": [
+    {
+      "id": "monkeys-paw",
+      "title": "Ride: The Monkey's Paw (Jacobs)",
+      "pubDate": "2026-09-10T12:00:00Z",
+      "duration": "00:25:52",
+      "durationSeconds": 1552,
+      "summary": "Classic suspense short — three wishes, one cautionary tale. ~26 min; try 1.5× for a ~17 min Melbourne drive.",
+      "description": "A PretzelerFL ride pick: W. W. Jacobs' The Monkey's Paw, read for LibriVox (public domain).\n\nWhy this ride: short enough for a local errand at 1.5×, long enough to stay focused. Home-life listening only.\n\nAttribution: LibriVox Short Story Collection 003 — public domain. Source: https://archive.org/details/stories_003_librivox\nOriginal text: W. W. Jacobs (public domain).",
+      "enclosureUrl": "https://archive.org/download/stories_003_librivox/monkeys_paw_jacobs.mp3",
+      "enclosureType": "audio/mpeg",
+      "enclosureLength": 24840494,
+      "link": "https://archive.org/details/stories_003_librivox",
+      "attribution": "LibriVox / Internet Archive — Public Domain",
+      "tags": ["story", "focus", "classic"]
+    },
+    {
+      "id": "great-french-duel",
+      "title": "Ride: The Great French Duel (Twain)",
+      "pubDate": "2026-09-11T12:00:00Z",
+      "duration": "00:26:46",
+      "durationSeconds": 1606,
+      "summary": "Mark Twain humor for the commute. ~27 min; ~18 min at 1.5×.",
+      "description": "A PretzelerFL ride pick: Mark Twain's The Great French Duel, LibriVox reading (public domain).\n\nWhy this ride: light, funny, and paced for a Florida drive without needing notes.\n\nAttribution: LibriVox Short Story Collection 003 — public domain. Source: https://archive.org/details/stories_003_librivox\nOriginal text: Mark Twain (public domain).",
+      "enclosureUrl": "https://archive.org/download/stories_003_librivox/great_french_duel_twain_btr.mp3",
+      "enclosureType": "audio/mpeg",
+      "enclosureLength": 25700776,
+      "link": "https://archive.org/details/stories_003_librivox",
+      "attribution": "LibriVox / Internet Archive — Public Domain",
+      "tags": ["humor", "story", "twain"]
+    },
+    {
+      "id": "story-of-keesh",
+      "title": "Ride: The Story of Keesh (London)",
+      "pubDate": "2026-09-12T12:00:00Z",
+      "duration": "00:24:30",
+      "durationSeconds": 1470,
+      "summary": "Jack London adventure — clever hunting and quiet courage. ~24.5 min; ~16 min at 1.5×.",
+      "description": "A PretzelerFL ride pick: Jack London's The Story of Keesh, LibriVox reading (public domain).\n\nWhy this ride: clean narrative arc that lands right around the 25-minute sweet spot.\n\nAttribution: LibriVox Short Story Collection Vol. 023 — public domain. Source: https://archive.org/details/short_story023_0802_librivox\nOriginal text: Jack London (public domain).",
+      "enclosureUrl": "https://archive.org/download/short_story023_0802_librivox/shortstory023_storyofkeesh_add.mp3",
+      "enclosureType": "audio/mpeg",
+      "enclosureLength": 23529806,
+      "link": "https://archive.org/details/short_story023_0802_librivox",
+      "attribution": "LibriVox / Internet Archive — Public Domain",
+      "tags": ["adventure", "learning", "story"]
+    },
+    {
+      "id": "owl-creek-bridge",
+      "title": "Ride: An Occurrence at Owl Creek Bridge (Bierce)",
+      "pubDate": "2026-09-13T12:00:00Z",
+      "duration": "00:18:48",
+      "durationSeconds": 1128,
+      "summary": "Tight Civil War classic — time bends. ~19 min; ~12.5 min at 1.5× for a short hop.",
+      "description": "A PretzelerFL ride pick: Ambrose Bierce's An Occurrence at Owl Creek Bridge, LibriVox reading (public domain).\n\nWhy this ride: denser focus piece when you want something shorter than a full 25.\n\nAttribution: LibriVox Short Story Collection Vol. 023 — public domain. Source: https://archive.org/details/short_story023_0802_librivox\nOriginal text: Ambrose Bierce (public domain).",
+      "enclosureUrl": "https://archive.org/download/short_story023_0802_librivox/shortstory023_anoccurrenceatowlcreekbridge_at.mp3",
+      "enclosureType": "audio/mpeg",
+      "enclosureLength": 18049358,
+      "link": "https://archive.org/details/short_story023_0802_librivox",
+      "attribution": "LibriVox / Internet Archive — Public Domain",
+      "tags": ["focus", "classic", "story"]
+    },
+    {
+      "id": "tobermory",
+      "title": "Ride: Tobermory (Saki)",
+      "pubDate": "2026-09-14T12:00:00Z",
+      "duration": "00:18:53",
+      "durationSeconds": 1133,
+      "summary": "Saki wit — a talking cat at a country-house party. ~19 min; ~12.5 min at 1.5×.",
+      "description": "A PretzelerFL ride pick: Saki's Tobermory, LibriVox reading (public domain).\n\nWhy this ride: bright and mischievous — good reset between errands.\n\nAttribution: LibriVox Short Story Collection 003 — public domain. Source: https://archive.org/details/stories_003_librivox\nOriginal text: Saki (H. H. Munro) (public domain).",
+      "enclosureUrl": "https://archive.org/download/stories_003_librivox/tobermory_saki_ianish.mp3",
+      "enclosureType": "audio/mpeg",
+      "enclosureLength": 18140900,
+      "link": "https://archive.org/details/stories_003_librivox",
+      "attribution": "LibriVox / Internet Archive — Public Domain",
+      "tags": ["humor", "story", "short"]
+    }
+  ]
+}
