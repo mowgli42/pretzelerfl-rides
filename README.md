@@ -1,6 +1,6 @@
 # PretzelerFL rides
 
-Personal Overcast ride queue for ~25-minute listens at **1.5×** (about 15–18 minutes of drive time). Home-life only — stories, focus, curiosity. 
+Personal Overcast ride queue of curated ~25-minute habits / personal-systems briefings at **1.5×** (roughly 15–23 minutes of drive time). Home-life only — habits, systems, focus. 
 
 ## Subscribe (Overcast)
 
@@ -36,15 +36,15 @@ python3 build_feed.py
 | `duration` | `HH:MM:SS` |
 | `durationSeconds` | Integer seconds |
 | `summary` | Short itunes summary |
-| `description` | Full notes + **attribution** + 1.5× tip |
-| `enclosureUrl` | Real MP3 URL (public-domain / CC only) |
+| `description` | Full notes + **show credit** |
+| `enclosureUrl` | Real MP3 URL from the show's public feed |
 | `enclosureType` | Usually `audio/mpeg` |
 | `enclosureLength` | File size in **bytes** |
 | `link` | Episode or source page |
-| `attribution` | License / source credit |
+| `attribution` | Show / episode credit |
 | `tags` | Optional labels |
 
-Prefer real redistributable audio (LibriVox, Internet Archive, clear Creative Commons). Do not invent fake enclosure URLs.
+Use real enclosure URLs taken from each show's own public RSS feed. Do not invent fake enclosure URLs, and do not re-host or copy the audio files.
 
 ## GitHub Pages
 
@@ -54,8 +54,8 @@ If the site is not live yet: **Settings → Pages → Build and deployment → S
 
 ## Attribution
 
-Starter episodes are LibriVox public-domain readings hosted on Internet Archive. Each item description credits the collection. This feed is a personal curation playlist — not affiliated with LibriVox or Archive.org beyond fair use of public-domain audio.
+Episodes are curated third-party podcast episodes (TED Audio Collective, TED Talks Daily, Beyond the To-Do List, Deep Questions with Cal Newport, Happier with Gretchen Rubin). Enclosures point directly at each show's own publicly served audio — nothing is re-hosted. Each item description and `attribution` field credits the original show. This is a personal Overcast curation playlist, not affiliated with or endorsed by any of the shows.
 
 ## License
 
-Feed curation and site files: yours to keep personal. Enclosed audio remains under its original public-domain / CC terms.
+Feed curation and site files: yours to keep personal. Enclosed audio remains the property of its original publishers under their own terms; this feed only links to their public episode URLs for personal listening.
