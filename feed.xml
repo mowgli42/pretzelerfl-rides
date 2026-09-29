@@ -8,7 +8,7 @@
     <link>https://mowgli42.github.io/pretzelerfl-rides/</link>
     <description>Curated ~25-minute habits/systems and presence/repair marriage ride briefings for PretzelerFL (Tobias / mowgli42, Melbourne FL). Best at 1.5× in Overcast — about 15–23 minutes of wall-clock listening. Home-life picks: habits, systems, focus, presence, repair. Not a workplace feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Sep 2026 10:10:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 09:53:10 +0000</lastBuildDate>
     <atom:link href="https://mowgli42.github.io/pretzelerfl-rides/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Tobias / PretzelerFL / mowgli42</itunes:author>
     <itunes:summary>Curated ~25-minute habits/systems and presence/repair marriage ride briefings for PretzelerFL (Tobias / mowgli42, Melbourne FL). Best at 1.5× in Overcast — about 15–23 minutes of wall-clock listening. Home-life picks: habits, systems, focus, presence, repair. Not a workplace feed.</itunes:summary>
@@ -19,6 +19,34 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Leisure" />
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Ride: Engagement over ease — choose presence (Dads Panel)</title>
+      <link>https://www.familylife.com/podcast/familylife-today/engagement-over-ease-how-men-avoid-passivity-and-choose-presence-dads-panel/</link>
+      <guid isPermaLink="false">https://mowgli42.github.io/pretzelerfl-rides/rides/ride-familylife-engagement-over-ease-dads-panel</guid>
+      <pubDate>Sat, 19 Sep 2026 12:00:00 +0000</pubDate>
+      <description>FamilyLife Today: Engagement over Ease: How Men Avoid Passivity and Choose Presence—Dads Panel. Dave Wilson with Brian Goins, Jorge Rosario, Daron George, and Bruce Goff on honest failures, practical accountability, and carrying your share at home. From FamilyLife Today.</description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/traffic.omny.fm/d/clips/cbd16f10-ac60-4f09-b4df-b15400ce35aa/33aaac7e-3581-4e21-a3df-b154011ba58c/26461a2e-3247-40cd-9dfe-b464014c204d/audio.mp3?utm_source=Podcast&amp;in_playlist=4604cdc7-9731-42ee-bbf0-b154011ba5a8" length="23960733" type="audio/mpeg" />
+      <itunes:title>Ride: Engagement over ease — choose presence (Dads Panel)</itunes:title>
+      <itunes:summary>A panel of Christian dads on ditching autopilot and busyness excuses—small moves and real accountability to show up engaged at home instead of passive.</itunes:summary>
+      <itunes:author>Tobias / PretzelerFL / mowgli42</itunes:author>
+      <itunes:duration>00:24:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Ride: When your spouse gets emotional (Ted Lowe)</title>
+      <link>https://www.familylife.com/podcast/familylife-today/what-should-i-do-when-my-spouse-gets-emotional-ted-lowe/</link>
+      <guid isPermaLink="false">https://mowgli42.github.io/pretzelerfl-rides/rides/ride-familylife-spouse-gets-emotional-ted-lowe</guid>
+      <pubDate>Fri, 18 Sep 2026 12:00:00 +0000</pubDate>
+      <description>FamilyLife Today: What Should I Do When My Spouse Gets Emotional? Ted Lowe. How changing the way you think and respond in emotional moments can change your marriage—active listening when you want to shut down. From FamilyLife Today.</description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/traffic.omny.fm/d/clips/cbd16f10-ac60-4f09-b4df-b15400ce35aa/33aaac7e-3581-4e21-a3df-b154011ba58c/fc3971ff-800f-48ae-b2e7-b3b801518074/audio.mp3?utm_source=Podcast&amp;in_playlist=4604cdc7-9731-42ee-bbf0-b154011ba5a8" length="23960712" type="audio/mpeg" />
+      <itunes:title>Ride: When your spouse gets emotional (Ted Lowe)</itunes:title>
+      <itunes:summary>Ted Lowe on what to think, say, and do when your spouse is emotional—even when you don’t agree. Stay and listen instead of fixing, defending, or checking out.</itunes:summary>
+      <itunes:author>Tobias / PretzelerFL / mowgli42</itunes:author>
+      <itunes:duration>00:24:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Ride: Stay present when you shut down (Adam Young Part 2)</title>
       <link>https://adamyoungcounseling.com/relational-conflict-fight-flight-freeze-or-shut-down-part-2/</link>
