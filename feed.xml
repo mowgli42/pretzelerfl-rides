@@ -8,7 +8,7 @@
     <link>https://mowgli42.github.io/pretzelerfl-rides/</link>
     <description>Curated ~25-minute habits/systems and presence/repair marriage ride briefings for PretzelerFL (Tobias / mowgli42, Melbourne FL). Best at 1.5× in Overcast — about 15–23 minutes of wall-clock listening. Home-life picks: habits, systems, focus, presence, repair. Not a workplace feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Sep 2026 09:53:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 14:59:33 +0000</lastBuildDate>
     <atom:link href="https://mowgli42.github.io/pretzelerfl-rides/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Tobias / PretzelerFL / mowgli42</itunes:author>
     <itunes:summary>Curated ~25-minute habits/systems and presence/repair marriage ride briefings for PretzelerFL (Tobias / mowgli42, Melbourne FL). Best at 1.5× in Overcast — about 15–23 minutes of wall-clock listening. Home-life picks: habits, systems, focus, presence, repair. Not a workplace feed.</itunes:summary>
@@ -19,6 +19,62 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Leisure" />
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Ride: This deserves love — Philip McKernan on love, shame, and being real</title>
+      <link>https://podcasts.apple.com/us/podcast/this-deserves-love-with-philip-mckernan/id1344850656?i=1000461195327</link>
+      <guid isPermaLink="false">https://mowgli42.github.io/pretzelerfl-rides/rides/ride-frontrowdads-mckernan-this-deserves-love</guid>
+      <pubDate>Wed, 07 Oct 2026 12:00:00 +0000</pubDate>
+      <description>Front Row Dads: This Deserves Love with Philip McKernan. Jon Vroman talks with McKernan as husband and father about love, shame, and being real instead of performing. From Front Row Dads.</description>
+      <enclosure url="https://traffic.libsyn.com/secure/frontrowdads/128_-_This_Deserves_Love.mp3?dest-id=645527" length="52309585" type="audio/mpeg" />
+      <itunes:title>Ride: This deserves love — Philip McKernan on love, shame, and being real</itunes:title>
+      <itunes:summary>Philip McKernan joins Jon Vroman as husband and father on love, shame, and being real—why the parts of us we hide most are the ones that deserve love.</itunes:summary>
+      <itunes:author>Tobias / PretzelerFL / mowgli42</itunes:author>
+      <itunes:duration>00:54:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Ride: Next to my deepest wound — your greatest gift</title>
+      <link>https://podcasts.apple.com/us/podcast/next-to-my-deepest-wound/id1440871876?i=1000476986375</link>
+      <guid isPermaLink="false">https://mowgli42.github.io/pretzelerfl-rides/rides/ride-one-last-talk-next-to-deepest-wound</guid>
+      <pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
+      <description>One Last Talk (Philip McKernan): Next To My Deepest Wound. McKernan on healing from childhood emotional abuse and why your greatest gift lies next to your deepest wound. From One Last Talk.</description>
+      <enclosure url="https://traffic.libsyn.com/secure/onelasttalk/08_OLT_S3.mp3?dest-id=814601" length="36664404" type="audio/mpeg" />
+      <itunes:title>Ride: Next to my deepest wound — your greatest gift</itunes:title>
+      <itunes:summary>Philip McKernan on healing from childhood emotional abuse—your greatest gift lies next to your deepest wound, if you stop running from it.</itunes:summary>
+      <itunes:author>Tobias / PretzelerFL / mowgli42</itunes:author>
+      <itunes:duration>00:18:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Ride: One last talk — accept yourself, face your story (ComebaCK #86)</title>
+      <link>https://podcasts.apple.com/us/podcast/comeback-interview-86-philip-mckernan-one-last-talk/id1546873958?i=1000525730089</link>
+      <guid isPermaLink="false">https://mowgli42.github.io/pretzelerfl-rides/rides/ride-comeback-mckernan-one-last-talk-86</guid>
+      <pubDate>Mon, 05 Oct 2026 12:00:00 +0000</pubDate>
+      <description>ComebaCK: What's Your Story? Interview #86: Philip McKernan, One Last Talk. McKernan on accepting yourself and facing your story instead of hiding it. From ComebaCK: What's Your Story?</description>
+      <enclosure url="https://anchor.fm/s/45f847c0/podcast/play/35582636/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-16%2Fe2ed6052-e5e9-b61c-776f-cfc3a44c4f8d.m4a" length="33711062" type="audio/x-m4a" />
+      <itunes:title>Ride: One last talk — accept yourself, face your story (ComebaCK #86)</itunes:title>
+      <itunes:summary>Philip McKernan on accepting yourself and facing your story instead of hiding it—why owning your past loosens shame's grip.</itunes:summary>
+      <itunes:author>Tobias / PretzelerFL / mowgli42</itunes:author>
+      <itunes:duration>00:35:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Ride: What would it be like to just be you? — quieting the inner bully</title>
+      <link>https://podcasts.apple.com/us/podcast/1-volume-philip-mckernan-what-would-it-be-like-to-just-be-you/id1479526992?i=1000699776943</link>
+      <guid isPermaLink="false">https://mowgli42.github.io/pretzelerfl-rides/rides/ride-psych-entrepreneurship-mckernan-just-be-you</guid>
+      <pubDate>Sun, 04 Oct 2026 12:00:00 +0000</pubDate>
+      <description>Psychology of Entrepreneurship (Ronsley Vaz): Philip McKernan: What Would It Be Like To Just Be You? McKernan on the inner bully, guilt, and why we stay disconnected from ourselves and the people we love. From Psychology of Entrepreneurship.</description>
+      <enclosure url="https://anchor.fm/s/10248c080/podcast/play/99690348/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-11%2F396365822-44100-2-a3ace564fb0e9036.mp3" length="46157338" type="audio/mpeg" />
+      <itunes:title>Ride: What would it be like to just be you? — quieting the inner bully</itunes:title>
+      <itunes:summary>Philip McKernan with Ronsley Vaz on the inner bully, guilt, and why we stay disconnected—and what opens up when you just be you.</itunes:summary>
+      <itunes:author>Tobias / PretzelerFL / mowgli42</itunes:author>
+      <itunes:duration>00:31:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Ride: Engagement over ease — choose presence (Dads Panel)</title>
       <link>https://www.familylife.com/podcast/familylife-today/engagement-over-ease-how-men-avoid-passivity-and-choose-presence-dads-panel/</link>
