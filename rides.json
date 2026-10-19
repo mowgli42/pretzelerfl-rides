@@ -11,6 +11,27 @@
   },
   "rides": [
     {
+      "id": "ride-tip-069-how-to-win-friends-carnegie",
+      "title": "Ride: How to Win Friends and Influence People — be genuinely interested (TIP 069)",
+      "pubDate": "2026-10-19T12:00:00Z",
+      "duration": "00:48:33",
+      "durationSeconds": 2913,
+      "summary": "A sincere walkthrough of Dale Carnegie's classic. Listen for being genuinely interested in the other person and getting them talking, and for why people forget what you said but never how you made them feel.",
+      "description": "The Investor's Podcast (We Study Billionaires): TIP 069: How to Win Friends and Influence People. A full-episode discussion of Dale Carnegie's book: looking at yourself first before placing blame, how to make other people like you, why your intentions should always be sincere, how to criticize another person if you can't avoid it, and why people will forget what you said but never how you made them feel. From The Investor's Podcast Network.",
+      "enclosureUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/PPLLC2505748893.mp3?updated=1724818048",
+      "enclosureType": "audio/mpeg",
+      "enclosureLength": 50232102,
+      "link": "https://podcasts.apple.com/us/podcast/tip-069-how-to-win-friends-and-influence-people/id928933489?i=1000360796203",
+      "attribution": "The Investor's Podcast (We Study Billionaires) — Preston Pysh and Stig Brodersen",
+      "tags": [
+        "conversation",
+        "listening",
+        "curiosity",
+        "marriage",
+        "carnegie"
+      ]
+    },
+    {
       "id": "ride-birthlounge-423-resentment-dry-spell",
       "title": "Ride: Resentment and sexual dry spell — repair without blame (Birth Lounge 423)",
       "pubDate": "2026-10-10T12:00:00Z",
@@ -23,7 +44,12 @@
       "enclosureLength": 83126376,
       "link": "https://podcasts.apple.com/us/podcast/ep-423-resentment-and-sexual-dry-spell-with-jonathan/id1346872486?i=1000749220661",
       "attribution": "The Birth Lounge Podcast — HeHe Stewart with Jonathan Van Viegen",
-      "tags": ["marriage", "repair", "resentment", "curiosity"]
+      "tags": [
+        "marriage",
+        "repair",
+        "resentment",
+        "curiosity"
+      ]
     },
     {
       "id": "ride-mtp-531-making-her-like-you-more",
@@ -38,7 +64,13 @@
       "enclosureLength": 47300685,
       "link": "https://podcasts.apple.com/us/podcast/making-her-like-you-more-mtp-531/id218155493?i=1000791566035",
       "attribution": "Better Men Get Better Women / The Mountain Top Podcast — Scot McKay with Jonathan van Viegen",
-      "tags": ["marriage", "likeability", "curiosity", "repair", "anger"]
+      "tags": [
+        "marriage",
+        "likeability",
+        "curiosity",
+        "repair",
+        "anger"
+      ]
     },
     {
       "id": "ride-lovelab-418-chosen-cherished",
@@ -53,7 +85,13 @@
       "enclosureLength": 121514639,
       "link": "https://podcasts.apple.com/us/podcast/how-to-keep-choosing-your-relationship-over-and-over-again/id1432138159?i=1000793845280",
       "attribution": "The Love Lab Podcast — Kevin Anthony with Jonathan van Viegen",
-      "tags": ["marriage", "likeability", "curiosity", "repair", "forgiveness"]
+      "tags": [
+        "marriage",
+        "likeability",
+        "curiosity",
+        "repair",
+        "forgiveness"
+      ]
     },
     {
       "id": "ride-frontrowdads-mckernan-this-deserves-love",
@@ -68,7 +106,14 @@
       "enclosureLength": 52309585,
       "link": "https://podcasts.apple.com/us/podcast/this-deserves-love-with-philip-mckernan/id1344850656?i=1000461195327",
       "attribution": "Front Row Dads — Jon Vroman with Philip McKernan",
-      "tags": ["shame", "wound", "authenticity", "marriage", "fatherhood", "love"]
+      "tags": [
+        "shame",
+        "wound",
+        "authenticity",
+        "marriage",
+        "fatherhood",
+        "love"
+      ]
     },
     {
       "id": "ride-one-last-talk-next-to-deepest-wound",
@@ -83,7 +128,13 @@
       "enclosureLength": 36664404,
       "link": "https://podcasts.apple.com/us/podcast/next-to-my-deepest-wound/id1440871876?i=1000476986375",
       "attribution": "One Last Talk — Philip McKernan",
-      "tags": ["shame", "wound", "healing", "authenticity", "abuse-recovery"]
+      "tags": [
+        "shame",
+        "wound",
+        "healing",
+        "authenticity",
+        "abuse-recovery"
+      ]
     },
     {
       "id": "ride-comeback-mckernan-one-last-talk-86",
@@ -98,7 +149,13 @@
       "enclosureLength": 33711062,
       "link": "https://podcasts.apple.com/us/podcast/comeback-interview-86-philip-mckernan-one-last-talk/id1546873958?i=1000525730089",
       "attribution": "ComebaCK: What's Your Story? — Philip McKernan, Interview #86",
-      "tags": ["shame", "wound", "authenticity", "acceptance", "story"]
+      "tags": [
+        "shame",
+        "wound",
+        "authenticity",
+        "acceptance",
+        "story"
+      ]
     },
     {
       "id": "ride-psych-entrepreneurship-mckernan-just-be-you",
@@ -113,7 +170,13 @@
       "enclosureLength": 46157338,
       "link": "https://podcasts.apple.com/us/podcast/1-volume-philip-mckernan-what-would-it-be-like-to-just-be-you/id1479526992?i=1000699776943",
       "attribution": "Psychology of Entrepreneurship (Ronsley Vaz) — Philip McKernan",
-      "tags": ["shame", "wound", "authenticity", "guilt", "connection"]
+      "tags": [
+        "shame",
+        "wound",
+        "authenticity",
+        "guilt",
+        "connection"
+      ]
     },
     {
       "id": "ride-familylife-engagement-over-ease-dads-panel",
@@ -128,7 +191,12 @@
       "enclosureLength": 23960733,
       "link": "https://www.familylife.com/podcast/familylife-today/engagement-over-ease-how-men-avoid-passivity-and-choose-presence-dads-panel/",
       "attribution": "FamilyLife Today — Dads Panel (Dave Wilson, Brian Goins, Jorge Rosario, Daron George, Bruce Goff)",
-      "tags": ["presence", "engagement", "fatherhood", "marriage"]
+      "tags": [
+        "presence",
+        "engagement",
+        "fatherhood",
+        "marriage"
+      ]
     },
     {
       "id": "ride-familylife-spouse-gets-emotional-ted-lowe",
@@ -143,7 +211,12 @@
       "enclosureLength": 23960712,
       "link": "https://www.familylife.com/podcast/familylife-today/what-should-i-do-when-my-spouse-gets-emotional-ted-lowe/",
       "attribution": "FamilyLife Today — Ted Lowe",
-      "tags": ["presence", "listening", "repair", "marriage"]
+      "tags": [
+        "presence",
+        "listening",
+        "repair",
+        "marriage"
+      ]
     },
     {
       "id": "ride-adam-young-relational-conflict-shutdown-part-2",
@@ -158,7 +231,12 @@
       "enclosureLength": 21706326,
       "link": "https://adamyoungcounseling.com/relational-conflict-fight-flight-freeze-or-shut-down-part-2/",
       "attribution": "The Place We Find Ourselves — Adam Young",
-      "tags": ["presence", "repair", "shutdown", "marriage"]
+      "tags": [
+        "presence",
+        "repair",
+        "shutdown",
+        "marriage"
+      ]
     },
     {
       "id": "ride-familylife-here-but-not-really-hammitt",
@@ -173,7 +251,12 @@
       "enclosureLength": 23960321,
       "link": "https://www.familylife.com/podcast/familylife-today/here-but-not-really-fighting-emotional-absence-in-marriage-matt-sarah-hammitt/",
       "attribution": "FamilyLife Today — Matt & Sarah Hammitt",
-      "tags": ["presence", "repair", "emotional-absence", "marriage"]
+      "tags": [
+        "presence",
+        "repair",
+        "emotional-absence",
+        "marriage"
+      ]
     },
     {
       "id": "ride-wah-e825-deep-rooted-marriage-part-2",
@@ -188,7 +271,12 @@
       "enclosureLength": 40913896,
       "link": "https://wildatheart.org/podcasts/wild-at-heart/e825-the-deep-rooted-marriage-part-2/",
       "attribution": "Wild at Heart — John Eldredge",
-      "tags": ["presence", "repair", "eldredge", "marriage"]
+      "tags": [
+        "presence",
+        "repair",
+        "eldredge",
+        "marriage"
+      ]
     },
     {
       "id": "ride-james-clear-atomic-habits-better-human",
@@ -203,7 +291,12 @@
       "enclosureLength": 32789701,
       "link": "https://www.ted.com/talks/how_to_be_a_better_human_how_to_develop_the_habits_you_want_and_get_rid_of_the_ones_you_don_t_w_james_clear",
       "attribution": "How to Be a Better Human (TED Audio Collective) — 'How to develop the habits you want – and get rid of the ones you don’t (w/ James Clear)'",
-      "tags": ["habits", "systems", "atomic-habits", "james-clear"]
+      "tags": [
+        "habits",
+        "systems",
+        "atomic-habits",
+        "james-clear"
+      ]
     },
     {
       "id": "ride-ayelet-fishbach-procrastination-habit",
@@ -218,7 +311,12 @@
       "enclosureLength": 14197256,
       "link": "https://www.ted.com/talks/ayelet_fishbach_4_proven_ways_to_kick_your_procrastination_habit?rss",
       "attribution": "TED Talks Daily — '4 proven ways to kick your procrastination habit | Ayelet Fishbach'",
-      "tags": ["habits", "systems", "procrastination", "motivation"]
+      "tags": [
+        "habits",
+        "systems",
+        "procrastination",
+        "motivation"
+      ]
     },
     {
       "id": "ride-nayeema-raza-curiosity-phone-habits",
@@ -233,7 +331,12 @@
       "enclosureLength": 21193644,
       "link": "http://go.ted.com/nayeemaraza",
       "attribution": "TED Talks Daily — '3 habits to practice curiosity — and escape your phone | Nayeema Raza'",
-      "tags": ["habits", "systems", "attention", "digital-minimalism"]
+      "tags": [
+        "habits",
+        "systems",
+        "attention",
+        "digital-minimalism"
+      ]
     },
     {
       "id": "ride-charles-duhigg-power-of-habit-productivity",
@@ -248,7 +351,12 @@
       "enclosureLength": 31400519,
       "link": "https://www.beyondthetodolist.com/charles-duhigg-on-peak-productivity-and-becoming-smarter-faster-and-better/",
       "attribution": "Beyond the To-Do List — 'Habits and Peak Productivity: Becoming Smarter, Faster, and Better with Charles Duhigg'",
-      "tags": ["habits", "systems", "productivity", "charles-duhigg"]
+      "tags": [
+        "habits",
+        "systems",
+        "productivity",
+        "charles-duhigg"
+      ]
     },
     {
       "id": "ride-laura-vanderkam-morning-routines",
@@ -263,7 +371,12 @@
       "enclosureLength": 25411995,
       "link": "https://www.beyondthetodolist.com/laura-vanderkam-on-what-successful-people-do-before-breakfast-at-work-and-on-the-weekend/",
       "attribution": "Beyond the To-Do List — 'Morning Routines: What Successful People Do Before Breakfast with Laura Vanderkam'",
-      "tags": ["habits", "systems", "morning-routine", "time-management"]
+      "tags": [
+        "habits",
+        "systems",
+        "morning-routine",
+        "time-management"
+      ]
     },
     {
       "id": "ride-cal-newport-habit-tune-up-ep9",
@@ -278,7 +391,13 @@
       "enclosureLength": 26636434,
       "link": "https://www.calnewport.com/podcast/",
       "attribution": "Deep Questions with Cal Newport — 'Ep. 9: Habit Tune-Up: Dumbing Down Smartphones, Deep Habits, Progress on Non-Urgent Projects and Training Focus'",
-      "tags": ["habits", "systems", "deep-work", "focus", "cal-newport"]
+      "tags": [
+        "habits",
+        "systems",
+        "deep-work",
+        "focus",
+        "cal-newport"
+      ]
     },
     {
       "id": "ride-gretchen-rubin-habit-change-tools",
@@ -293,7 +412,12 @@
       "enclosureLength": 28353698,
       "link": "https://omny.fm/shows/happier-with-gretchen-rubin/happier-ep-410-top-tools-for-habit-change-new-year",
       "attribution": "Happier with Gretchen Rubin — 'Happier - Ep. 410: Top Tools for Habit Change! New Year, Same You--Better Tools for Sticking to Our Good Habits'",
-      "tags": ["habits", "systems", "gretchen-rubin", "accountability"]
+      "tags": [
+        "habits",
+        "systems",
+        "gretchen-rubin",
+        "accountability"
+      ]
     }
   ]
 }

@@ -8,7 +8,7 @@
     <link>https://mowgli42.github.io/pretzelerfl-rides/</link>
     <description>Curated ~25-minute habits/systems and presence/repair marriage ride briefings for PretzelerFL (Tobias / mowgli42, Melbourne FL). Best at 1.5× in Overcast — about 15–23 minutes of wall-clock listening. Home-life picks: habits, systems, focus, presence, repair. Not a workplace feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Oct 2026 22:57:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 11:14:02 +0000</lastBuildDate>
     <atom:link href="https://mowgli42.github.io/pretzelerfl-rides/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Tobias / PretzelerFL / mowgli42</itunes:author>
     <itunes:summary>Curated ~25-minute habits/systems and presence/repair marriage ride briefings for PretzelerFL (Tobias / mowgli42, Melbourne FL). Best at 1.5× in Overcast — about 15–23 minutes of wall-clock listening. Home-life picks: habits, systems, focus, presence, repair. Not a workplace feed.</itunes:summary>
@@ -19,6 +19,20 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Leisure" />
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Ride: How to Win Friends and Influence People — be genuinely interested (TIP 069)</title>
+      <link>https://podcasts.apple.com/us/podcast/tip-069-how-to-win-friends-and-influence-people/id928933489?i=1000360796203</link>
+      <guid isPermaLink="false">https://mowgli42.github.io/pretzelerfl-rides/rides/ride-tip-069-how-to-win-friends-carnegie</guid>
+      <pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
+      <description>The Investor's Podcast (We Study Billionaires): TIP 069: How to Win Friends and Influence People. A full-episode discussion of Dale Carnegie's book: looking at yourself first before placing blame, how to make other people like you, why your intentions should always be sincere, how to criticize another person if you can't avoid it, and why people will forget what you said but never how you made them feel. From The Investor's Podcast Network.</description>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/PPLLC2505748893.mp3?updated=1724818048" length="50232102" type="audio/mpeg" />
+      <itunes:title>Ride: How to Win Friends and Influence People — be genuinely interested (TIP 069)</itunes:title>
+      <itunes:summary>A sincere walkthrough of Dale Carnegie's classic. Listen for being genuinely interested in the other person and getting them talking, and for why people forget what you said but never how you made them feel.</itunes:summary>
+      <itunes:author>Tobias / PretzelerFL / mowgli42</itunes:author>
+      <itunes:duration>00:48:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Ride: Resentment and sexual dry spell — repair without blame (Birth Lounge 423)</title>
       <link>https://podcasts.apple.com/us/podcast/ep-423-resentment-and-sexual-dry-spell-with-jonathan/id1346872486?i=1000749220661</link>
