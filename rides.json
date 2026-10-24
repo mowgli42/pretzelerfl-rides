@@ -11,6 +11,69 @@
   },
   "rides": [
     {
+      "id": "ride-erp213-terry-real-shame-grandiosity",
+      "title": "Ride: Shame and grandiosity — why you defend instead of connect (Terry Real, Empowered Relationship 213)",
+      "pubDate": "2026-10-24T14:00:00Z",
+      "duration": "00:58:22",
+      "durationSeconds": 3502,
+      "summary": "Terry Real explains how a man swings between shame (one-down, 'I'm failing her') and grandiosity (one-up, defending, being right). Listen for how to come back to the middle, where you can be curious about her again.",
+      "description": "Empowered Relationship Podcast, Ep. 213: How Shame and Grandiosity Relate to Self-esteem, an interview with Terry Real, family therapist and founder of the Relational Life Institute.",
+      "enclosureUrl": "https://traffic.libsyn.com/secure/empoweredrelationship/ERP_ep_213_NEW_v2_Terry_Real.mp3?dest-id=227489",
+      "enclosureType": "audio/mpeg",
+      "enclosureLength": 56283368,
+      "link": "https://podcasts.apple.com/us/podcast/how-shame-and-grandiosity-relate-to-self-esteem/id969874173?i=1000472892490",
+      "attribution": "Empowered Relationship Podcast — Jessica Higgins with Terry Real",
+      "tags": [
+        "shame",
+        "defensiveness",
+        "marriage",
+        "terry-real",
+        "curiosity"
+      ]
+    },
+    {
+      "id": "ride-couple-things-curt-thompson-anxious",
+      "title": "Ride: Why you're still anxious — shame, attachment, and being known (Curt Thompson, Couple Things)",
+      "pubDate": "2026-10-24T13:00:00Z",
+      "duration": "00:57:12",
+      "durationSeconds": 3432,
+      "summary": "Christian psychiatrist Curt Thompson on a marriage podcast: how shame and attachment wounds keep us braced and disconnected, and what it takes to let your spouse truly know you.",
+      "description": "Couple Things with Shawn and Andrew: Why You're Still Anxious (Even When Life Is Going Well), with Dr. Curt Thompson. Anxiety, shame, healing, relationships, neuroscience and attachment theory, and what it means to be truly known.",
+      "enclosureUrl": "https://pdst.fm/e/pscrb.fm/rss/p/s.gum.fm/s-64dab2607da93038a5efe62b/traffic.megaphone.fm/FAMM9973798729.mp3",
+      "enclosureType": "audio/mpeg",
+      "enclosureLength": 48126823,
+      "link": "https://podcasts.apple.com/us/podcast/why-youre-still-anxious-even-when-life-is-going-well/id1485740243?i=1000771187812",
+      "attribution": "Couple Things with Shawn and Andrew — guest Dr. Curt Thompson",
+      "tags": [
+        "shame",
+        "attachment",
+        "marriage",
+        "faith",
+        "curt-thompson"
+      ]
+    },
+    {
+      "id": "ride-being-known-s5e7-shames-remedy",
+      "title": "Ride: Shame's remedy is vulnerability — stop hiding (Being Known S5E7)",
+      "pubDate": "2026-10-24T12:00:00Z",
+      "duration": "00:48:53",
+      "durationSeconds": 2933,
+      "summary": "From Curt Thompson's own show, teaching through The Soul of Shame: hiding and defending are shame's moves, and being seen is the cure. Listen for one small way to let Kristin see you instead of protecting yourself.",
+      "description": "Being Known Podcast, Season 5 Episode 7: Shame's Remedy: Vulnerability. Personal stories and teaching on chapter 6 of Curt Thompson's The Soul of Shame.",
+      "enclosureUrl": "https://mcdn.podbean.com/mf/web/9qqyct/BKP_S5E7_Shame_s_Remedy_-_Vulnerability_mix3bad4n.mp3",
+      "enclosureType": "audio/mpeg",
+      "enclosureLength": 117336332,
+      "link": "https://podcasts.apple.com/us/podcast/s5e7-shames-remedy-vulnerability/id1556261828?i=1000578681922",
+      "attribution": "Being Known Podcast — Dr. Curt Thompson and Pepper Sweeney",
+      "tags": [
+        "shame",
+        "vulnerability",
+        "faith",
+        "curt-thompson",
+        "being-known"
+      ]
+    },
+    {
       "id": "ride-aom-supercommunicators-duhigg",
       "title": "Ride: The Secrets of Supercommunicators — match her conversation (Art of Manliness)",
       "pubDate": "2026-10-23T15:00:00Z",
