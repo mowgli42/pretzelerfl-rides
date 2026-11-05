@@ -8,7 +8,7 @@
     <link>https://mowgli42.github.io/pretzelerfl-rides/</link>
     <description>Curated ~25-minute habits/systems and presence/repair marriage ride briefings for PretzelerFL (Tobias / mowgli42, Melbourne FL). Best at 1.5× in Overcast — about 15–23 minutes of wall-clock listening. Home-life picks: habits, systems, focus, presence, repair. Not a workplace feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Oct 2026 10:06:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 01:00:26 +0000</lastBuildDate>
     <atom:link href="https://mowgli42.github.io/pretzelerfl-rides/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Tobias / PretzelerFL / mowgli42</itunes:author>
     <itunes:summary>Curated ~25-minute habits/systems and presence/repair marriage ride briefings for PretzelerFL (Tobias / mowgli42, Melbourne FL). Best at 1.5× in Overcast — about 15–23 minutes of wall-clock listening. Home-life picks: habits, systems, focus, presence, repair. Not a workplace feed.</itunes:summary>
@@ -19,6 +19,20 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Leisure" />
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Ride: Vulnerability is the speed of connection (Philip McKernan, betterHUMAN)</title>
+      <link>https://www.buzzsprout.com/662794/episodes/14917570-do-men-really-need-to-be-vulnerable-with-philip-mckernan</link>
+      <guid isPermaLink="false">https://mowgli42.github.io/pretzelerfl-rides/rides/ride-betterhuman-mckernan-vulnerability</guid>
+      <pubDate>Thu, 05 Nov 2026 10:00:00 +0000</pubDate>
+      <description>betterHUMAN Podcast (host Greg Witz): Do Men Really Need To Be Vulnerable? with Philip McKernan. McKernan on vulnerability as the speed of connection, facing your authentic story, and why performing vulnerability to win approval is not the same as being real. From betterHUMAN Podcast.</description>
+      <enclosure url="https://www.buzzsprout.com/662794/episodes/14917570-do-men-really-need-to-be-vulnerable-with-philip-mckernan.mp3" length="31710116" type="audio/mpeg" />
+      <itunes:title>Ride: Vulnerability is the speed of connection (Philip McKernan, betterHUMAN)</itunes:title>
+      <itunes:summary>Philip McKernan with Greg Witz on why you clam up and go defensive when Kristin calls you out, and how that keeps her out instead of letting her in. Listen for the difference between real vulnerability and vulnerability performed for approval.</itunes:summary>
+      <itunes:author>Tobias / PretzelerFL / mowgli42</itunes:author>
+      <itunes:duration>00:43:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Ride: Shame and grandiosity — why you defend instead of connect (Terry Real, Empowered Relationship 213)</title>
       <link>https://podcasts.apple.com/us/podcast/how-shame-and-grandiosity-relate-to-self-esteem/id969874173?i=1000472892490</link>

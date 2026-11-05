@@ -11,6 +11,27 @@
   },
   "rides": [
     {
+      "id": "ride-betterhuman-mckernan-vulnerability",
+      "title": "Ride: Vulnerability is the speed of connection (Philip McKernan, betterHUMAN)",
+      "pubDate": "2026-11-05T10:00:00Z",
+      "duration": "00:43:58",
+      "durationSeconds": 2638,
+      "summary": "Philip McKernan with Greg Witz on why you clam up and go defensive when Kristin calls you out, and how that keeps her out instead of letting her in. Listen for the difference between real vulnerability and vulnerability performed for approval.",
+      "description": "betterHUMAN Podcast (host Greg Witz): Do Men Really Need To Be Vulnerable? with Philip McKernan. McKernan on vulnerability as the speed of connection, facing your authentic story, and why performing vulnerability to win approval is not the same as being real. From betterHUMAN Podcast.",
+      "enclosureUrl": "https://www.buzzsprout.com/662794/episodes/14917570-do-men-really-need-to-be-vulnerable-with-philip-mckernan.mp3",
+      "enclosureType": "audio/mpeg",
+      "enclosureLength": 31710116,
+      "link": "https://www.buzzsprout.com/662794/episodes/14917570-do-men-really-need-to-be-vulnerable-with-philip-mckernan",
+      "attribution": "betterHUMAN Podcast — Greg Witz with Philip McKernan",
+      "tags": [
+        "vulnerability",
+        "defensiveness",
+        "marriage",
+        "authenticity",
+        "philip-mckernan"
+      ]
+    },
+    {
       "id": "ride-erp213-terry-real-shame-grandiosity",
       "title": "Ride: Shame and grandiosity — why you defend instead of connect (Terry Real, Empowered Relationship 213)",
       "pubDate": "2026-10-24T14:00:00Z",
