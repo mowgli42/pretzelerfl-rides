@@ -8,7 +8,7 @@
     <link>https://mowgli42.github.io/pretzelerfl-rides/</link>
     <description>Curated ~25-minute habits/systems and presence/repair marriage ride briefings for PretzelerFL (Tobias / mowgli42, Melbourne FL). Best at 1.5× in Overcast — about 15–23 minutes of wall-clock listening. Home-life picks: habits, systems, focus, presence, repair. Not a workplace feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Nov 2026 01:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 12:09:31 +0000</lastBuildDate>
     <atom:link href="https://mowgli42.github.io/pretzelerfl-rides/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Tobias / PretzelerFL / mowgli42</itunes:author>
     <itunes:summary>Curated ~25-minute habits/systems and presence/repair marriage ride briefings for PretzelerFL (Tobias / mowgli42, Melbourne FL). Best at 1.5× in Overcast — about 15–23 minutes of wall-clock listening. Home-life picks: habits, systems, focus, presence, repair. Not a workplace feed.</itunes:summary>
@@ -19,6 +19,20 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Leisure" />
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Ride: The Story of Shame You Are Living (Being Known S5E5)</title>
+      <link>https://thebeingknownpodcast.podbean.com/e/the-story-of-shame-you-are-living/</link>
+      <guid isPermaLink="false">https://mowgli42.github.io/pretzelerfl-rides/rides/ride-being-known-s5e5-story-of-shame-you-are-living</guid>
+      <pubDate>Fri, 06 Nov 2026 12:00:00 +0000</pubDate>
+      <description>Coach ride for Fri Nov 6: Being Known Podcast S5E5 with Curt Thompson. Chapter 4 of The Soul of Shame — which story shame is telling you when you go quiet after Kristin names something hard. From Being Known Podcast.</description>
+      <enclosure url="https://mcdn.podbean.com/mf/web/4y4jtw/BKP_S5E5_The_Story_of_Shame_You_Are_Living_mix27d9iy.mp3" length="106332572" type="audio/mpeg" />
+      <itunes:title>Ride: The Story of Shame You Are Living (Being Known S5E5)</itunes:title>
+      <itunes:summary>Curt Thompson on the shame story you live in when you clam up — how that story runs the moment, and how naming it opens a way back instead of defending or fixing.</itunes:summary>
+      <itunes:author>Tobias / PretzelerFL / mowgli42</itunes:author>
+      <itunes:duration>00:44:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Ride: Vulnerability is the speed of connection (Philip McKernan, betterHUMAN)</title>
       <link>https://www.buzzsprout.com/662794/episodes/14917570-do-men-really-need-to-be-vulnerable-with-philip-mckernan</link>
