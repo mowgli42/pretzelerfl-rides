@@ -8,7 +8,7 @@
     <link>https://mowgli42.github.io/pretzelerfl-rides/</link>
     <description>Curated ~25-minute habits/systems and presence/repair marriage ride briefings for PretzelerFL (Tobias / mowgli42, Melbourne FL). Best at 1.5× in Overcast — about 15–23 minutes of wall-clock listening. Home-life picks: habits, systems, focus, presence, repair. Not a workplace feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Nov 2026 12:09:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 12:02:18 +0000</lastBuildDate>
     <atom:link href="https://mowgli42.github.io/pretzelerfl-rides/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Tobias / PretzelerFL / mowgli42</itunes:author>
     <itunes:summary>Curated ~25-minute habits/systems and presence/repair marriage ride briefings for PretzelerFL (Tobias / mowgli42, Melbourne FL). Best at 1.5× in Overcast — about 15–23 minutes of wall-clock listening. Home-life picks: habits, systems, focus, presence, repair. Not a workplace feed.</itunes:summary>
@@ -19,6 +19,20 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Leisure" />
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Ride: Joy, Shame and the Brain (Being Known S5E4)</title>
+      <link>https://thebeingknownpodcast.podbean.com/e/joy-shame-and-the-brain/</link>
+      <guid isPermaLink="false">https://mowgli42.github.io/pretzelerfl-rides/rides/ride-being-known-s5e4-joy-shame-and-the-brain</guid>
+      <pubDate>Sat, 07 Nov 2026 12:00:00 +0000</pubDate>
+      <description>Coach ride for Sat Nov 7: Being Known Podcast S5E4 with Curt Thompson. Chapter 3 of The Soul of Shame — joy, shame, and the brain, and how practicing joy keeps you connected when the clam wants to shut you down. From Being Known Podcast.</description>
+      <enclosure url="https://mcdn.podbean.com/mf/web/pwb837/BKP_S5E4_Joy_Shame_The_Brain_mix19saav.mp3" length="107677244" type="audio/mpeg" />
+      <itunes:title>Ride: Joy, Shame and the Brain (Being Known S5E4)</itunes:title>
+      <itunes:summary>Curt Thompson on how shame targets joy first — and why that makes you clam up and disconnect from Kristin instead of staying present when something hard comes up.</itunes:summary>
+      <itunes:author>Tobias / PretzelerFL / mowgli42</itunes:author>
+      <itunes:duration>00:44:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Ride: The Story of Shame You Are Living (Being Known S5E5)</title>
       <link>https://thebeingknownpodcast.podbean.com/e/the-story-of-shame-you-are-living/</link>
